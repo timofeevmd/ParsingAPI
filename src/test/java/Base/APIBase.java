@@ -27,6 +27,7 @@ public class APIBase {
         return property;
     }
 
+
     public Integer convertStringPropertyToInt(String intProperty) {
         return Integer.parseInt(intProperty);
     }
